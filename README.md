@@ -7,7 +7,7 @@ pwa-asset-generator
 [![Build status](https://img.shields.io/travis/com/randytarampi/pwa-asset-generator.svg?style=flat-square)](https://travis-ci.com/randytarampi/pwa-asset-generator) 
 [![Coverage status](https://img.shields.io/coveralls/randytarampi/pwa-asset-generator.svg?style=flat-square)](https://coveralls.io/github/randytarampi/pwa-asset-generator?branch=master) 
 [![Maintainability status](https://img.shields.io/codeclimate/maintainability-percentage/randytarampi/pwa-asset-generator.svg?style=flat-square)](https://codeclimate.com/github/randytarampi/pwa-asset-generator/maintainability)
-[![Waffle.io board](https://badge.waffle.io/randytarampi/randytarampi.github.io.svg?columns=all&style=flat-square)](https://waffle.io/randytarampi/randytarampi.github.io) 
+[![Waffle.io board](https://badge.waffle.io/randytarampi/pwa-asset-generator.svg?columns=all&style=flat-square)](https://waffle.io/randytarampi/pwa-asset-generator) 
 [![Analytics](https://ga-beacon.appspot.com/UA-50921068-1/beacon/github/randytarampi/pwa-asset-generator/?flat&useReferrer)](https://github.com/igrigorik/ga-beacon)
 [![Greenkeeper badge](https://badges.greenkeeper.io/randytarampi/pwa-asset-generator.svg)](https://greenkeeper.io/)
 
