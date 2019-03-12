@@ -6,12 +6,12 @@ const rimraf = require("rimraf");
 const { expect } = require("chai");
 const { images } = require("../../../src");
 
-describe("cli", function () {
+describe("pwa-asset-generator", function () {
     this.timeout(60000);
 
     const inputImagePath = path.join(__dirname, "../../resources/ʕつ•ᴥ•ʔつ.png");
     const outputImageDirectoryPath = path.join(__dirname, "../../tmp");
-    const binPath = path.join(__dirname, "../../../bin/cli.js");
+    const binPath = path.join(__dirname, "../../../bin/pwa-asset-generator.js");
 
     beforeEach(function (done) {
         mkdirp(outputImageDirectoryPath, done);
