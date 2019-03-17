@@ -11,11 +11,11 @@ const icons = [...androidIcons(), ...iosIcons()];
 const splashes = [...androidSplash(), ...iosSplash()];
 const images = [...icons, ...splashes];
 
-const generateIconsGenerator = icons => (inputFile, outputDirectory = process.cwd(), format) => iconsGenerator(
-    icons, inputFile, outputDirectory, format);
+const generateIconsGenerator = icons => (inputFile, outputDirectory = process.cwd(), format, type) => iconsGenerator(
+    icons, inputFile, outputDirectory, format, type);
 const generateSplashScreensGenerator = splashes => (
-    inputFile, outputDirectory = process.cwd(), format) => splashScreensGenerator(splashes, inputFile,
-    outputDirectory, format);
+    inputFile, outputDirectory = process.cwd(), format, type) => splashScreensGenerator(splashes, inputFile,
+    outputDirectory, format, type);
 
 module.exports = {
     icons,
