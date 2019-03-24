@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/randytarampi/pwa-asset-generator/compare/v1.1.0...v1.1.1) (2019-03-24)
+
+
+### Bug Fixes
+
+* Set the `main` in `package.json` properly. ([fa585df](https://github.com/randytarampi/pwa-asset-generator/commit/fa585df))
+
 # [1.1.0](https://github.com/randytarampi/pwa-asset-generator/compare/v1.0.1...v1.1.0) (2019-03-17)
 
 
