@@ -13,7 +13,7 @@ commander
     .option("--splash <splashInputImagePath>", "Path to a distinct splash screen source image")
     .option("-f --format <outputImageFormat>", "Generate files for a particular file format {png|jpeg|jpg|tiff|webp}",
         /^(png|jpeg|jpg|tiff|webp)$/gm)
-    .action((inputImagePath, outputImageDirectoryPath) => {
+    .action((commander, [inputImagePath, outputImageDirectoryPath] = []) => {
         if (typeof inputImagePath !== "string") {
             commander.help();
             process.exit(1);
