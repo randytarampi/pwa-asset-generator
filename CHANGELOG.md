@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/randytarampi/pwa-asset-generator/compare/v1.1.1...v1.2.0) (2020-01-06)
+
+
+### Features
+
+* **package:** Blindly upgrade our dependencies for the new year and support node@10, node@12 and beyond. ([03e0d05](https://github.com/randytarampi/pwa-asset-generator/commit/03e0d05ccea877acc367ca98393b9dba635cbed8))
+
 ## [1.1.1](https://github.com/randytarampi/pwa-asset-generator/compare/v1.1.0...v1.1.1) (2019-03-24)
 
 
