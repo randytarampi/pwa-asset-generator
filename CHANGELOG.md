@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/randytarampi/pwa-asset-generator/compare/v1.2.0...v2.0.0) (2020-04-25)
+
+
+### chore
+
+* **package:** Fix tests for mkdirp@1.0.4. ([e55f427](https://github.com/randytarampi/pwa-asset-generator/commit/e55f4275425efca29f497e5a96a321370686ce1e))
+
+
+### BREAKING CHANGES
+
+* **package:** Drop support for node<8.
+
 # [1.2.0](https://github.com/randytarampi/pwa-asset-generator/compare/v1.1.1...v1.2.0) (2020-01-06)
 
 
