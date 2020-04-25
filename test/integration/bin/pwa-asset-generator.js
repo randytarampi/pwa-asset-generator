@@ -13,8 +13,8 @@ describe("pwa-asset-generator", function () {
     const outputImageDirectoryPath = path.join(__dirname, "../../tmp");
     const binPath = path.join(__dirname, "../../../bin/pwa-asset-generator.js");
 
-    beforeEach(function (done) {
-        mkdirp(outputImageDirectoryPath, done);
+    beforeEach(function () {
+        return mkdirp(outputImageDirectoryPath);
     });
 
     afterEach(function (done) {
