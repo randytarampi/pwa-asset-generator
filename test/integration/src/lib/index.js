@@ -11,8 +11,8 @@ describe("lib", function () {
     const outputDirectory = path.join(__dirname, "../../../tmp");
     const inputFile = path.join(__dirname, "../../../resources/ʕつ•ᴥ•ʔつ.png");
 
-    beforeEach(function (done) {
-        mkdirp(outputDirectory, done);
+    beforeEach(function () {
+        return mkdirp(outputDirectory);
     });
 
     afterEach(function (done) {
