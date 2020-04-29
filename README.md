@@ -8,7 +8,7 @@ pwa-asset-generator
 [![Coverage status](https://img.shields.io/coveralls/randytarampi/pwa-asset-generator.svg?style=flat-square)](https://coveralls.io/github/randytarampi/pwa-asset-generator?branch=master)
 [![Maintainability status](https://img.shields.io/codeclimate/maintainability-percentage/randytarampi/pwa-asset-generator.svg?style=flat-square)](https://codeclimate.com/github/randytarampi/pwa-asset-generator/maintainability)
 [![Analytics](https://ga-beacon.appspot.com/UA-50921068-1/beacon/github/randytarampi/pwa-asset-generator/?flat&useReferrer)](https://github.com/igrigorik/ga-beacon)
-[![Greenkeeper badge](https://badges.greenkeeper.io/randytarampi/pwa-asset-generator.svg)](https://greenkeeper.io/)
+
 
 [![Install @randy.tarampi/pwa-asset-generator](https://nodeico.herokuapp.com/@randy.tarampi/pwa-asset-generator.svg)](https://www.npmjs.com/package/@randy.tarampi/pwa-asset-generator)
 
