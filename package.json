@@ -14,7 +14,7 @@
     "@randy.tarampi/android-splash": "^2.1.0",
     "@randy.tarampi/generic-icon-splash-generate": "^2.0.0",
     "@randy.tarampi/ios-icons": "^4.2.0",
-    "@randy.tarampi/ios-splash": "^3.1.0",
+    "@randy.tarampi/ios-splash": "^3.1.1",
     "commander": "^5.0.0"
   },
   "devDependencies": {
