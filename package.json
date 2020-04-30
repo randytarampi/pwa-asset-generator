@@ -15,7 +15,7 @@
     "@randy.tarampi/generic-icon-splash-generate": "^2.0.0",
     "@randy.tarampi/ios-icons": "^4.2.0",
     "@randy.tarampi/ios-splash": "^3.1.0",
-    "commander": "^5.0.0"
+    "commander": "^5.1.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
