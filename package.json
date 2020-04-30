@@ -11,7 +11,7 @@
   "bugs": "https://github.com/randytarampi/pwa-asset-generator/issues",
   "dependencies": {
     "@randy.tarampi/android-icons": "^3.1.0",
-    "@randy.tarampi/android-splash": "^2.1.0",
+    "@randy.tarampi/android-splash": "^2.1.1",
     "@randy.tarampi/generic-icon-splash-generate": "^2.0.0",
     "@randy.tarampi/ios-icons": "^4.2.0",
     "@randy.tarampi/ios-splash": "^3.1.0",
