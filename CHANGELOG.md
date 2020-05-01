@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/randytarampi/pwa-asset-generator/compare/v2.0.1...v2.0.2) (2020-05-01)
+
+
+### Bug Fixes
+
+* package.json, package-lock.json & .snyk to reduce vulnerabilities ([aa042dd](https://github.com/randytarampi/pwa-asset-generator/commit/aa042ddcd9ddb43b8655962231d2d1180ac54b1d))
+* package.json, package-lock.json & .snyk to reduce vulnerabilities ([644f1d7](https://github.com/randytarampi/pwa-asset-generator/commit/644f1d72c624a73097050cecf4f60558e34455f6))
+* package.json, package-lock.json & .snyk to reduce vulnerabilities ([8594b70](https://github.com/randytarampi/pwa-asset-generator/commit/8594b70597b970e7f6c1cc837975574110aeb650))
+
 ## [2.0.1](https://github.com/randytarampi/pwa-asset-generator/compare/v2.0.0...v2.0.1) (2020-04-29)
 
 
